@@ -9,10 +9,9 @@ Bem-vindo ao meu repositório do curso Full Stack da Cubos Academy! Aqui você e
 - [Projetos](#projetos)
 - [Tecnologias](#tecnologias)
 - [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## 💼 Projetos
- Durante todo o processo, os projetos serão alocados aqui 
+ Durante todo o processo do curso, os projetos serão alocados aqui 
 
 1. [Divisivel por X](https://github.com/EricAssisdev/Curso-FullStack/tree/3799333677baf72f8528829dab20fed53f43f2c9/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafio%20Divisivel%20por%20X): O objetivo desse exercicio é retornar se o número de entrada é
 divísvel por X numero ou não, retornando true ou false
