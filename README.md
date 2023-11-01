@@ -16,7 +16,8 @@ Bem-vindo ao meu repositório do curso Full Stack da Cubos Academy! Aqui você e
 
 1. [Divisivel por X](https://github.com/EricAssisdev/Curso-FullStack/tree/b99c3ce08b51bf3d5e4a22a5a51066d93c91af63/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafio%20Divisivel%20por%20X): O objetivo desse exercicio é retornar se o número de entrada é
 divísvel por X numero ou não, retornando true ou false
-2. ...
+2. [Desafio jogo da forca](https://github.com/EricAssisdev/Curso-FullStack/tree/805d142ae1c711a4ec53ed8f39246adc6050ace4/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafio%20jogo%20da%20forca): O objetivo desse desafio, é retornar quantos palpites estão corretos de acordo com a palavra a ser adivinhada
+3. ...
 
 Sinta-se à vontade para explorar os diretórios de projetos individuais para obter mais detalhes, código e documentação. 🚧
 
