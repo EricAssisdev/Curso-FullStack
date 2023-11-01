@@ -29,7 +29,7 @@ Durante o curso, irei trabalhar com várias tecnologias e ferramentas, incluindo
 - Node.js
 - Express.js
 - React
-- MySQL
+- PostgreSQL
 - MongoDB
 - ...
 
